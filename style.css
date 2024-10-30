@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(176, 63, 63);
+    color: rgb(244, 244, 9);
+}
+
+header{
+    text-align: center;
+    font-size: 40px;
+    color: greenyellow;
+    border-bottom: solid 5px green;
+}
