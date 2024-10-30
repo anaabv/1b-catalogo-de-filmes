@@ -15,5 +15,11 @@ background-color: crimson;
 padding: 30px;
 margin-top: 15px;
 display: flex;
+justify-content: center;
+font-family: "Rubik Mono One", monospace;
+}
 
+
+.chamada_texto{
+margin-right: 4%;
 }
