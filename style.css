@@ -25,3 +25,9 @@ justify-content: center;
 .chamada_texto{
 margin-right: 4%;
 }
+
+img {
+     width: 210px;
+     height: 280px;
+
+}
